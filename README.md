@@ -15,8 +15,11 @@ I am a Python Developer/Django/React enthusiast with a passion for creating inno
 Portfolio: [Check out my portfolio](https://anugrahmasih261.github.io/anugrahmasih_portfolio/)  
 👨🎓 Experience Level: 2+ years  
 💻 Currently Watching: LOST IN Space 🚀  
+
 🧩 Interested In: Technology,computer scienceand  Space Science  🧑‍🚀
+
 💡 Equipments: Knowledge, Python, Django + REST API, C, Nodejs, React , JS 
+
 ⚡ Fun Fact: Prefer Chai ☕ over coffee  
 
 📝 Resume: [Link to Resume](https://docs.google.com/document/d/1Cqvoeb4eSYjLZpTDtujbJ04dy6cZEaTi5Z7_GzGWhY4/edit?usp=sharing)  
