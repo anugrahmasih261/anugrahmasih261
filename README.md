@@ -37,5 +37,8 @@ Portfolio: [Check out my portfolio](https://anugrahmasih261.github.io/anugrahmas
 - Git
 - GitHub
 - AdobeXD
+- CI & CD
+- GitHub Actions
+- GitHub Pages
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me.
