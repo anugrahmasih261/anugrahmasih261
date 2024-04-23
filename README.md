@@ -5,7 +5,8 @@
 
 Hello World! 👋
 
-I am a Python Developer/Django/React enthusiast with a passion for creating innovative solutions. Graduate of Harvard CS50. Currently working as a Full Stack Developer at [Tech I.S India Private Limited](https://techis.io). Excited about collaborating on projects and always eager to learn and work across technologies and domains. 
+I am a Python Developer/Django/React enthusiast with a passion for creating innovative solutions. Graduate of Harvard CS50. Currently working as a Python Full Stack Developer and as junior Data 📊  Scientist 👨‍🔬  at [Tech I.S India Private Limited](https://techis.io). Excited about collaborating on projects and always eager to learn and work across technologies and domains. 
+
 
 🌱 Skills: Python, Django, React, JavaScript, HTML, CSS, Git, GitHub  
 👨‍💻Design: AdobeXD, Figma.
