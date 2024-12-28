@@ -13,7 +13,7 @@ Hello World! 👋
 
 🌧️⛈️Cloud: Heroku, AWS (EC2, S3, RDS, IAM, Lambda), Replit.
 
-![AWS Certified Cloud Practitioner](https://www.credly.com/badges/9d48b6b9-93ed-44ac-a46d-c30752f10d7f/public_url)
+AWS Cloud Practioner: [Certified Cloud Practitioner](https://www.credly.com/badges/9d48b6b9-93ed-44ac-a46d-c30752f10d7f/public_url)
 
 Portfolio: [Check out my portfolio](https://anugrahmasih261.github.io/anugrahmasih_portfolio/)  
 👨🎓 Experience Level: 2+ years  
