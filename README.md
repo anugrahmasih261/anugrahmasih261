@@ -26,7 +26,7 @@ Portfolio: [Check out my portfolio](https://anugrahmasih261.github.io/anugrahmas
 
 ⚡ Fun Fact: Prefer Chai ☕ over coffee  
 
-📝 Resume: [Link to Resume](https://docs.google.com/document/d/1Cqvoeb4eSYjLZpTDtujbJ04dy6cZEaTi5Z7_GzGWhY4/edit?usp=sharing)  
+📝 Resume: [Link to Resume]()  
 💬 Ask me about anything here! I am happy to help.  
 
 ## Languages and Tools:
