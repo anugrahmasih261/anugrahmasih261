@@ -1,13 +1,14 @@
 # Hi there, I'm Anugrah Masih! 👋 🚀
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/anugrah-masih-6994b4213/">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="https://github.com/anugrahmasih261">
     <img src="https://shields.io" alt="GitHub" />
   </a>
-</div>
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
 ---
 
